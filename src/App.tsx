@@ -5,6 +5,12 @@ import "./App.css";
 // Exercise simple visant a prouver la capacité d'utilisation d'une API basique, et le rendu propre de ses
 // résultats en utilisant des composants dynamiques, et des affichages graphiques
 
+// L'exercise a pour but de tester les compétences suivantes :
+// - Création de composants fonction, avec hooks et state
+// - Utiliser les données d'une API
+// - Afficher des composants en boucle
+// - Utiliser du CSS de base, et les flex
+
 // Instructions :
 // 1) Créer un input de texte utilisant un STATE pour demander le nom de l'utilisateur
 // 2) Créer un boutton déclanchant un appel a fetchNameOrigins, et qui stocke les résultats dans un STATE
