@@ -2,10 +2,10 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-// Exercise simple visant a prouver la capacité d'utilisation d'une API basique, et le rendu propre de ses
+// Exercice simple visant a prouver la capacité d'utilisation d'une API basique, et le rendu propre de ses
 // résultats en utilisant des composants dynamiques, et des affichages graphiques
 
-// L'exercise a pour but de tester les compétences suivantes :
+// L'exercice  a pour but de tester les compétences suivantes :
 // - Création de composants fonction, avec hooks et state
 // - Utiliser les données d'une API
 // - Afficher des composants en boucle
